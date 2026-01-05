@@ -86,4 +86,4 @@ export const EMAIL = 'ramparmar.dev@gmail.com';
 export const GITHUB_URL = 'https://github.com/RamParmar1';
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/ram-parmar-7b3664398';
 export const LEETCODE_URL = 'https://leetcode.com/u/RamParmar/';
-export const RESUME_PATH = '/resume/ram-parmar-resume.pdf';
+export const RESUME_PATH = '/resume/ram-parmar.pdf';
