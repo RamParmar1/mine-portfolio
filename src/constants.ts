@@ -15,8 +15,8 @@ export const PROJECTS: Project[] = [
     features: ['User auth', 'Booking flow', 'Admin dashboard', 'Search & filters'],
     tech: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     img: 'https://plus.unsplash.com/premium_photo-1736167749916-b88de25ca315?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8', // Keeping your uploaded logo
-    repo: 'https://github.com/RamParmar1/travel-php',
-    demo: 'https://journeyjunction.kesu.com/'
+    repo: 'https://github.com/RamParmar1/journey-junction-PHP',
+    demo: 'https://journeyjunction.kesug.com/'
   },
   {
     id: 5,
@@ -26,8 +26,8 @@ export const PROJECTS: Project[] = [
     tech: ['MongoDB', 'Express', 'React', 'Node.js', 'Tailwind'],
     // Illustrative travel image (Plane/Map vibe)
     img: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=800&q=80',
-    repo: 'https://github.com/RamParmar1',
-    demo: '#'
+    repo: 'https://github.com/RamParmar1/journey-junction-MERN',
+    
   },
   {
     id: 2,
@@ -37,8 +37,8 @@ export const PROJECTS: Project[] = [
     tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Tailwind'],
     // Illustrative food image
     img: 'https://plus.unsplash.com/premium_photo-1675660733763-84fb0836cfa0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aWxsdXN0cmF0aW9uJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D',
-    repo: 'https://github.com/RamParmar1/pureplate',
-    demo: '#'
+    repo: 'https://github.com/RamParmar1/restaurant-PurePlate',
+    
   },
   {
     id: 3,
@@ -48,17 +48,17 @@ export const PROJECTS: Project[] = [
     tech: ['Django', 'React', 'PostgreSQL', 'Python'],
     // Illustrative adventure/nature image
     img: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80',
-    repo: 'https://github.com/RamParmar1',
+    repo: 'https://github.com/RamParmar1/travel_management_system',
   },
   {
     id: 4,
     title: 'Python Mini Projects',
-    desc: 'Collection: Tkinter GUI apps, FastAPI backends, automation scripts, and AI agents using LangChain.',
+    desc: 'Collection: Tkinter GUI apps, FastAPI backends, automation scripts',
     features: ['GUI Apps', 'REST APIs', 'Automation', 'Chatbot agent'],
-    tech: ['Python', 'FastAPI', 'Tkinter', 'LangChain', 'OpenAI'],
+    tech: ['Python', 'FastAPI', 'Tkinter', 'OpenAI'],
     // Abstract code/tech illustration
     img: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80',
-    repo: 'https://github.com/RamParmar1'
+    repo: 'https://github.com/RamParmar1/python/mini-project/'
   }
 ];
 
